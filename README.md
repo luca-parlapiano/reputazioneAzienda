@@ -48,7 +48,7 @@ Nella prima fase del progetto sono stati completati i seguenti passaggi:
   - confusion matrix
 - analisi preliminare degli errori
 
-Il notebook della Fase 1 è disponibile nella cartella `notebooks/`.
+Il notebook della Fase 1 è disponibile nella cartella `notebook/`.
 
 
 ## Fase 2 - CI/CD
